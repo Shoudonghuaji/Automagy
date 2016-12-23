@@ -1,0 +1,282 @@
+# Items
+item.automagy.sliver.air.name=风之裂片
+item.automagy.sliver.fire.name=火之裂片
+item.automagy.sliver.water.name=水之裂片
+item.automagy.sliver.earth.name=地之裂片
+item.automagy.sliver.order.name=秩序裂片
+item.automagy.sliver.entropy.name=混沌裂片
+item.automagy.crystalEye.name=水晶之眼
+item.automagy.foodstuff.vishroomStew.name=碗装毒菇汤
+item.automagy.enchantedPaper.name=附魔纸
+item.automagy.book.name=附魔本
+item.automagy.filter.white.name=符文白名单
+item.automagy.filter.black.name=符文黑名单
+item.automagy.recipe.name=符文配方表
+item.automagy.tallyLens.clear.name=计数盒透镜:透明
+item.automagy.tallyLens.unbound.name=计数盒透镜:零散
+item.automagy.tallyLens.yield.name=计数盒透镜:产物
+item.automagy.avaricePearl.name=贪婪珍珠
+item.automagy.tankGlyph.ink.name=水之印泥
+item.automagy.tankGlyph.v.name=虚空符文
+item.automagy.tankGlyph.c.name=泯灭符文
+item.automagy.tankGlyph.s.name=虹吸符文
+item.automagy.tankGlyph.e.name=嫉妒符文
+item.automagy.tankGlyph.t.name=节制符文
+item.automagy.tankGlyph.p.name=贮存符文
+item.automagy.tankGlyph.g.name=狂饮符文
+item.automagy.tankGlyph.r.name=库容符文
+item.automagy.tankGlyph.b.name=挤奶符文
+item.automagy.bucketMushroom.name=桶装蘑菇汤
+item.automagy.bucketVishroom.name=桶装毒菇汤
+item.seal.craft.name=Control Seal: Craft
+item.seal.craft_provide.name=Control Seal: Provide Craft
+item.seal.shear.name=Control Seal: Shear
+item.seal.shear_advanced.name=Advanced Control Seal: Shear
+item.seal.supply.name=Control Seal: Supply
+
+# Blocks
+tile.automagy.redcrystal.name=红晶
+tile.automagy.redcrystalAmp.name=增幅红晶
+tile.automagy.redcrystalDim.name=弱化红晶
+tile.automagy.redcrystalDense.name=钝化红晶
+tile.automagy.redcrystalRes.name=共振红晶
+tile.automagy.redcrystalMerc.name=墨丘利红晶
+tile.automagy.hourglass.name=沙漏
+tile.automagy.hourglassMagic.name=魔法沙漏
+tile.automagy.torchInversion.name=红石转换火把
+tile.automagy.torchInversion_off.name=红石转换火把
+tile.automagy.redcrystalMerc.name=墨丘利红晶
+tile.automagy.remoteComparator.name=远程比较器
+tile.automagy.golemWorkbench.name=傀儡工作台
+tile.automagy.bookshelf.0.name=附魔书架
+tile.automagy.bookshelf.1.name=蕴魔书架
+tile.automagy.tally.name=计数盒
+tile.automagy.tallyUnbound.name=计数盒(透镜；零散)
+tile.automagy.tallyYield.name=T计数盒(透镜: 产物)
+tile.automagy.mawHungry.name=饕餮之洞
+tile.automagy.mawFinical.name=深究之洞
+tile.automagy.mawSpitting.name=Spitting Maw
+tile.automagy.phenomenon.name=Phenomenon
+tile.automagy.tankThirsty.name=Thirsty Tank
+tile.automagy.milk.name=Milk
+tile.automagy.mushroomSoup.name=Mushroom Soup
+tile.automagy.vishroomSoup.name=Vishroom Soup
+
+# Fluids
+fluid.milk=Milk
+fluid.mushroomsoup=Mushroom Soup
+fluid.vishroomsoup=Vishroom Soup
+
+# Research
+tc.research_category.AUTOMAGY=Automagy
+
+Automagy.research_name.SLIVERS=Slivers of Magic
+Automagy.research_text.SLIVERS=Fragments of fragments
+Automagy.research_page.SLIVERS.1=You've found a way to break the various shards of primal magic down into even smaller pieces. This is helpful when using a whole shard would be unnecessary and even wasteful for the task at hand.<BR>Unfortunately, putting the pieces back together isn't quite as easy. It will take significantly more vis to produce a shard than break one down.
+
+Automagy.research_name.ENCHANTEDPAPER=Enchanted Paper
+Automagy.research_text.ENCHANTEDPAPER=The letter of the law
+Automagy.research_page.ENCHANTEDPAPER.1=There are times when written instructions simply don't carry the weight you desire... especially when what you desire is the weight of magical force.<BR>By infusing ordinary paper with vis and preparing a pliable inlay of golden runes, you are now able to produce enchanted paper that can help enforce your will upon your creations.<BR>A common use of enchanted paper is to create whitelists and blacklists which can be used to dictate what is "seen" by certain thaumic devices.
+Automagy.research_page.ENCHANTEDPAPER.2=To fill out a whitelist/blacklist, simply right-click while holding one in hand to specify the items and whether to use or ignore item quantity, damage value, or NBT. You can even filter by item name or partial name.<BR>You can turn a whitelist into a blacklist or vice versa while preserving the filtering options you have already written on the list.<BR>You can also copy the filtering options from one list to another (of either type) by simply placing both of them on an arcane workbench. The contents of the first are copied to the second (and the first is not consumed in the process, of course).
+Automagy.research_page.ENCHANTEDPAPER.3=§l        §nEnchanting§r<BR>Enchanted paper can also be bound into book form. Bookshelves created with these are four times as potent as a standard bookshelf when it comes to boosting an enchantment table, so only four (instead of 15) are required for the table to provide level 30 enchantments.
+
+Automagy.research_name.REDSTONETHEORY=Redstone Theory
+Automagy.research_text.REDSTONETHEORY=Logical Magic
+Automagy.research_page.REDSTONETHEORY.1=Redstone has many unique properties. Its ability to transmit signals and form "circuits" has led many to believe it is a form of mundane technology. Indeed, redstone powder is the foundation upon which all sorts of technology relies. However, one who is versed in the arcane arts knows it is invaluable to all manner of magics.<BR>In fact, the thaumaturge knows that at the fundamental level, redstone is no mundane material at all. Even when functioning as part of an elaborate mechanical device, careful examination reveals that its behavior can be described only as magical.
+Automagy.research_page.REDSTONETHEORY.2=You aim to take full advantage of this wondrous substance. Your tinkering has already yielded a few simple devices but you are certain that there is still much untapped potential. Further study is warranted.<BR>You predict that these burgeoning theories will soon become integral to a whole new discipline of thaumaturgy, one focused on allowing a thaumaturge to automate tasks more intelligently. You think you'll call it §5§lAutomagy§r§0.
+Automagy.research_page.REDSTONETHEORY.3=§l  §nRedstone Inversion Torch§r<BR>The redstone torch's ability to invert a redstone signal can be useful but it inverts only in a binary manner. Even the weakest signal that reaches the block the torch is attached to will turn it off, and when it is on, it is always at full strength. But what if you wanted a truly inverted signal?<BR>Utilizing basic thaumaturgical principles, you have created a more orderly, less all-or-nothing redstone torch.
+Automagy.research_page.REDSTONETHEORY.4=§l         §nHourglass§r<BR>The redstone hourglass is a simple but versatile device allowing you to regulate the timings of redstone signal transmissions.<BR>When activated (by right-click or redstone signal), the glass turns and sand starts to fall. A redstone pulse is emitted once the sand has settled. If the rear of a redstone comparator is next to the hourglass, it will output a signal which increases in strength as the sand falls.<BR>The hourglass outputs to its left and right sides. It accepts activation signals from any other side.<BR>Right-click the hourglass with your wand or a stick to adjust the timer's
+Automagy.research_page.REDSTONETHEORY.5=length. The timer is quite precise but unfortunately only allows adjustments in five-second increments and peaks out at 60 seconds, but you know this device is only the foundation upon which you will build better things.
+
+Automagy.research_name.MAGICHOURGLASS=Magic Hourglass
+Automagy.research_text.MAGICHOURGLASS=Mystical timekeeping
+Automagy.research_page.MAGICHOURGLASS.1=The hourglass you designed is useful for delaying signals and producing redstone pulses but is lacking in some areas. Repetition, for one. Also, sometimes you want the timer to start from zero each time the hourglass is activated even if sand was already falling but this is impossible with mundane sand which must flow from where it left off.<BR>To address these flaws, you've enchanted an hourglass with the ability to turn itself over repeatedly and the ability to instantly move its sand to the top (restarting the timer). If you so choose, it can instead move the sand to the bottom, ending the timer early without emitting a signal from the
+Automagy.research_page.MAGICHOURGLASS.2=hourglass (and stopping the loop if it was set to repeat).<BR>Additionally, there are several different signal modes. §lPulse§r mode is as standard. §lConstant§r mode means a signal is sent the entire time sand is falling. §lAlternating§r mode is the same except it is sent only 50% of the time. §lNegative Pulse§r mode works as Constant mode except there is a brief period where no signal is sent when the glass turns itself over (if set to repeat). §lDisabled§r means no signal is sent at all.<BR>The hourglass's reaction to receiving a signal (on any side but its left and right) can also be changed. By default, the hourglass flips each time it receives a new signal.
+Automagy.research_page.MAGICHOURGLASS.3=Another option is to have it only run when it is receiving a signal or only run when it isn't. Or it can ignore redstone signals altogether.<BR>Finally, you can fine-tune the timer far better than before and its maximum length far exceeds that of the redstone hourglass. However, you will need to §luse your wand§r to do so (by right-click); this is no mere mechanical contraption adjustable by poking a stick into a hole and turning it.
+
+Automagy.research_name.REDCRYSTAL=Redcrystal
+Automagy.research_text.REDCRYSTAL=Alchemist's Wire
+Automagy.research_page.REDCRYSTAL.1=You've discovered that some materials, once crystallized a certain way, become more susceptible to magical control. The new crystalline structures can then be rearranged and, in some cases, instructions can be imprinted upon them.<BR>This discovery came to you during your experimentations on redstone powder. The resulting redstone crystal - or §5redcrystal§0 - can be oriented more easily in a chosen direction. It can be placed on any side of a block. Right-click on a section of redcrystal with your wand to add or remove a connection to its neighbors.
+Automagy.research_page.REDCRYSTAL.2=In addition to passing its signal to other redcrystal in adjacent blocks, it will also pass a signal around corners when the two redcrystal clusters aren't directly touching so long as both of them are attached to the same block and there is empty space in the adjoining area.<IMG>automagy:textures/gui/redcrystal-corner.png:0:0:255:208:.5</IMG>
+
+Automagy.research_name.REDCRYSTAL_AMP=Amplified Redcrystal
+Automagy.research_text.REDCRYSTAL_AMP=Stay strong
+Automagy.research_page.REDCRYSTAL_AMP.1=When this type of redcrystal receives a redstone signal, it outputs a full-strength signal in the specified direction. If other redcrystal is used to pass the signal along, then its effective strength will remain 15 for many more blocks before it decays to 14 strength, at which point it will fall by one each tile as is normal for redstone signals.<BR>Dim redcrystal is an exception to this rule as it will reduce the signal strength to 14 or below immediately.<BR>Amplified redcrystal will only receive a signal from the side opposite to its output.
+
+Automagy.research_name.REDCRYSTAL_DIM=Dim Redcrystal
+Automagy.research_text.REDCRYSTAL_DIM=Less is more
+Automagy.research_page.REDCRYSTAL_DIM.1=This variety of redcrystal allows you to cap the signal strength it emits to a specified value. This can be useful when devices react differently to specific signal strengths, for example. It can still output a strength lower than the cap so there are some situations where you may want to pair it with something else, such as amplified redcrystal or a redstone torch.<BR>To change its cap, right-click the center of a dim redcrystal with your wand.
+
+Automagy.research_name.REDCRYSTAL_DENSE=Dense Redcrystal
+Automagy.research_text.REDCRYSTAL_DENSE=Cull the weak
+Automagy.research_page.REDCRYSTAL_DENSE.1=The structure of dense redcrystal is such that weaker redstone signals cannot penetrate it, preventing the signal from being passed on. Fortunately for you, its structure is magical and can be altered at your whim. In effect, dense redcrystal will always output either a signal at least equal to the strength you specify or no signal at all.<BR>To change its minimum required strength, right-click the center of a dense redcrystal with your wand.
+
+Automagy.research_name.REDCRYSTAL_RES=Resonating Redcrystal
+Automagy.research_text.REDCRYSTAL_RES=No strings attached
+Automagy.research_page.REDCRYSTAL_RES.1=When you created the first varieties of redcrystal, you experimented with each primal aspect. When it came to Aer, the resulting crystal and its unique vibrational energies were interesting but the energy was too weak to have any practical applications. With some additional research, however, you now have a way to focus that energy in a specific direction, allowing it to be received some distance away.<BR>Resonating redcrystal transmits redstone signals through the air and objects alike in a straight line until it is picked up by other resonating redcrystal. The two crystals must be oriented to face each other (so if one is attached to the bottom of a
+Automagy.research_page.REDCRYSTAL_RES.2=block, the other must be below it and attached to the top of a block).<BR>This signal can travel up to 15 blocks. Its strength is preserved just as if the crystals were next to each other.
+
+Automagy.research_name.REDCRYSTAL_MIRRORBOUND=Mercurial Redcrystal
+Automagy.research_text.REDCRYSTAL_MIRRORBOUND=Thaumaturge's Heliograph
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.1=Now that you are able to tap into the strange realm found through magic mirrors to create far-flung networks of production and transport, you need a way to intelligently control their disparate elements.<BR>By adapting a resonating crystal to the seemingly-erratic oscillations of the void between worlds, the resulting mercurial redcrystal can send its signal through a linked mirror in the vicinity to be picked up by another mercurial redcrystal on the other side. (The mirror retains its other abilities, making it most efficient to use these where mirrors were needed anyway.)
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.2=In order to send or receive a signal, the device must be linked to a mirror. Do this by holding it in your hand and right-clicking on the mirror. It must then be placed within eight blocks of that location. Of course, you'll need to link another mercurial redcrystal to the corresponding mirror on the other end.
+Automagy.research_page.REDCRYSTAL_MIRRORBOUND.MIRRORESSENTIA=§l      §nEssentia Mirror§r<BR>Mercurial redcrystal can be linked to an essentia mirror instead of a standard magic mirror. This would probably be the more efficient option unless magic mirrors are going to be in use anyway.
+
+Automagy.research_name.REMOTECOMPARATOR=Remote Comparator
+Automagy.research_text.REMOTECOMPARATOR=Keeping an eye on things
+Automagy.research_page.REMOTECOMPARATOR.1=Signals that relay how full your chests are can be useful but redstone comparators can often get in the way. With this in mind, you have invented the remote comparator. It outputs a signal based on a block's inventory (or other status) just like a redstone comparator but doesn't have to be next to the block.<BR>Of course, some other way of telling the device where it should look is necessary. Fortunately, the crystallization technique you discovered can help in this regard.
+Automagy.research_page.REMOTECOMPARATOR.2=§l      §nCrystalline Eye§r<BR>A crystalline eye is used to allow certain thaumic devices to observe other locations. An eye can be attuned to a specific position by right-clicking with it on the desired block. Then, simply place the attuned eye into the slot provided by the device.<BR>There is a limit to how far away the device can be from the specified coordinates. This limit is generally twenty blocks but it is possible that some devices will have other requirements.
+
+Automagy.research_name.SEALSHEAR=Control Seal: Shear
+Automagy.research_text.SEALSHEAR=Shave and a haircut
+Automagy.research_page.SEALSHEAR.1=This seal instructs golems to shear sheep and other applicable creatures in an area you define.<BR>For a golem to do this, it normally needs to be holding shears. At your option, shears with enough damage that they will soon break can be barred from use (though for best results, you may want to have those old shears removed from the supply container so your golems don't waste time picking them up and putting them right back when the job won't accept them).<BR>If a whitelist consisting of a type of shears is specified, you can request it to be provisioned.
+
+Automagy.research_name.SEALSHEARADV=Advanced Control Seal: Shear
+Automagy.research_text.SEALSHEARADV=Two bits
+Automagy.research_page.SEALSHEARADV.1=This advanced version of the §5Shear Seal§0 enables two things.<BR>First, it allows golems to shear blocks in the area (such as grass or vines). You choose whether to shear creatures, blocks, or both.<BR>Second, it lets you take advantage of the §5claw arms§0 you developed. Golems so outfitted can shear without needing to pick anything up (and without damaging your precious tools). However, only a §5Smart§0 golem is capable of using its claws this way.
+
+Automagy.research_name.SEALCRAFT=Golem's Workbench
+# Control Seal: Craft
+Automagy.research_text.SEALCRAFT=Highest quality craftsgolemship
+Automagy.research_page.SEALCRAFT.1=The golem's workbench and a §5Craft Seal§0 allow you to lay out crafting instructions with enough magical aid that even a golem could follow them.<BR>To provide these instructions, fill out a §5Runic Recipe§0 (see following pages), then place it in one of the recipe slots of the workbench.<BR>Attach a Craft Seal to one of the workbench's sides and, provided all the crafting components are contained within, a nearby golem with the §5Deft§0 trait will go to the workbench and craft the item.<BR>Multiple golems can work at a bench at a time, one per attached seal.
+Automagy.research_page.SEALCRAFT.2=You can use the seal's filter (along with redstone sensitivity and color) to control which items are crafted, when, and by which golems. For instance, if the filter has only a piston whitelisted, then that seal will produce only pistons regardless of what other recipes the workbench contains. (An empty blacklist means any item can be crafted.)<BR>For convenience, using a runic recipe on a filter slot will put its crafting result there instead.<BR>Note that only recipes that can be completed on a standard crafting table will work here. Your golems are unable to grasp the thaumic fundamentals needed to wield vis. Something tells you this may be for the best.
+Automagy.research_page.SEALCRAFT.3=§l        §nRunic Recipe§r<BR>This type of enchanted paper is used to provide crafting instructions for any item that can be created at a standard crafting table.<BR>Right-click with one in hand to specify the ingredients and their pattern. If the recipe is valid, the product will be shown on the right.<BR>You can copy the instructions from one recipe to another by placing both on an arcane workbench.<BR>§o(Note for JEI users: You can use JEI's "Transfer Items" functionality to populate the recipe - even if you don't have the items in your inventory.)§r
+
+Automagy.research_name.SEALCRAFT_PROVIDE=Control Seal: Provide Craft
+Automagy.research_text.SEALCRAFT_PROVIDE=Made to order
+Automagy.research_page.SEALCRAFT_PROVIDE.1=This seal combines traits from the §5Craft Seal§0 and the §5Provide Seal§0. It instructs golems to craft items using a §5Golem's Workbench§0, but only in response to a provisioning request.<BR>When a §5Supply Seal§0 is attached to the same workbench and no requests can be fulfilled, then it can (at your option) provision any missing ingredients through the supply seal. (These requests may even be fulfilled by this same seal, should the workbench contain the needed recipes, or issue further requests should the ingredients of the original ingredients be missing. But remember that some outside source must ultimately be the originator of any such chain of requests.)
+
+Automagy.research_name.SEALSUPPLY=Control Seal: Supply
+Automagy.research_text.SEALSUPPLY=Meeting demands
+Automagy.research_page.SEALSUPPLY.1=Generally speaking, this seal facilitates item provisioning. It works in conjunction with specific other seals and blocks, as indicated in their respective Thaumonomicon entries.<BR>When another seal calls for the use of a supply seal, attach it to the same block to which the other seal is attached. (There is no particular benefit to using multiple supply seals on a single block.)
+
+Automagy.research_name.TALLYBOX=Tally Box
+Automagy.research_text.TALLYBOX=It's all about the numbers
+Automagy.research_page.TALLYBOX.1=Knowing how full a chest is is all well and good, but often what you really want to keep track of is how many of a given thing you've got in there. To that end, you've designed the Tally Box.<BR>Simply place it such that it points at a container (similar to placing a hopper). Next, fill out a §5Runic Whitelist§0 or §5Blacklist§0 and place it inside the box. It will emit a redstone signal when the conditions you specify are met. Use your wand on any side to toggle whether that side can output a signal.<BR>If you place a §5Remote Comparator§0 above the box, attune a crystalline eye to the inventory you want to
+Automagy.research_page.TALLYBOX.2=examine, and place that eye into the comparator, then the comparator will cease its normal functions, instead relaying item information for the tally box to act upon.<BR>If a tally box is set to read from another tally box, contents will be retrieved from the second box's target. If that target is also a tally box, then it will relay its own target's contents, and so on. By chaining tally boxes and remote comparators together in this way, containers may be read from very long distances.
+
+Automagy.research_name.TALLYBOX_LENS=Tally Box Lenses
+Automagy.research_text.TALLYBOX_LENS=It all adds up
+Automagy.research_page.TALLYBOX_LENS.1=Attaching one of these lenses to a tally box changes the way it detects items at its target location.<BR>A box with the §5Unbound§0 lens examines loose items at the location rather than items in a container.<BR>The §5Yield§0 lens reveals to the box the items that may be dropped by the targeted block. (Both standard results and those possible using a tool with the silk touch enchant are considered.) This may be a good way to output a signal only when the target contains a specific block.
+
+Automagy.research_name.HUNGRYMAW=Hungry Maw
+Automagy.research_text.HUNGRYMAW=Big mouth
+Automagy.research_page.HUNGRYMAW.1=You've developed a procedure that extracts the gluttonous drive of the hungry chest and binds it to portable holes which can be placed on other containers. Any item that touches or passes close enough to a hungry maw will be put into the inventory associated with the side of the block to which the maw is attached.<BR>To begin, an obsidian block must be placed above a hungry chest. Up to three additional obsidian blocks may be placed next to the chest (but there is no benefit to having one below it). Finally, right-click on the block above the chest using a wand that has the portable hole focus equipped.
+Automagy.research_page.HUNGRYMAW.2=One hungry maw is created for each obsidian block used. (The wand and focus are not consumed, of course.)<LINE>By making a few adjustments to the hungry maw, you can curb its appetite to suit your needs, making it sensitive to redstone signals and/or use a §5Runic Whitelist§0 or §5Blacklist§0. After your new §5Finical Maw§0 is placed on a block, right-click it with a wand or list to configure it.<BR>Disabling the inserted list's "Ignore quantity" setting can be used to regulate the number of items allowed in the container (for whitelists) or make the maw take only some of each passing item, leaving a set number behind (for blacklists).
+
+Automagy.research_name.SPITTINGMAW=Spitting Maw
+Automagy.research_text.SPITTINGMAW=Toss your cookies
+Automagy.research_page.SPITTINGMAW.1=This alteration of the §5Hungry Maw§0 spits items out of the attached container rather than placing them inside. If you choose to provide it with a runic whitelist or blacklist, the maw will determine which items are allowed to remain inside the container. To insert the list, right-click the maw with your wand or the list.<BR>A whitelist means only the specified items are allowed to remain. A blacklist means everything except those items may remain.<BR>Disabling the list's "Ignore quantity" setting can be used to regulate the number of items allowed in the container (for whitelists) or limit
+Automagy.research_page.SPITTINGMAW.2=how many items can be spat out at a time per slot, allowing for a slower output (for blacklists).
+
+Automagy.research_name.AVARICEPEARL=Avarice Pearl
+Automagy.research_text.AVARICEPEARL=Greed is good
+Automagy.research_page.AVARICEPEARL.1=The ender pearl's inherent teleportation abilities make it a useful component in thaumaturgy. By steeping one in §6Desiderium§0 essentia, the aspect of desire and greed, the pearl's magic becomes focused on taking things rather than movement in general. This should allow the creation of many new devices.<BR>The §5avarice pearl§0 itself also has its uses. Like an ender pearl, it can be thrown, but rather than moving you upon impact, it will return to you - and bring along any nearby items when it does so. Firing it from a dispenser should have a similar effect.
+
+Automagy.research_name.THIRSTYTANK=Thirsty Tank
+Automagy.research_text.THIRSTYTANK=Unquenchable
+Automagy.research_page.THIRSTYTANK.1=With a few modifications, the magical hunger that drives the hungry chest becomes a thirst that causes a specially constructed tank to "drink" liquids that come into contact with it.<BR>Only fluid blocks that can be picked up by a bucket can be swallowed, but even flowing liquid can cause a reaction. The tank can take fluids from the world at some distance provided there is an unbroken chain of the same type leading from the tank to the target block. In this way, small pools can be consumed without moving the tank.<BR>Liquids can also be added or removed from the tank in the
+Automagy.research_page.THIRSTYTANK.2=standard fashion, such as by buckets or certain golems.<BR>The tank retains its contents when "broken".<BR>If placed next to a water source block, the tank can draw water from it indefinitely.<BR>You can also fill and empty water bottles using the tank if it contains water.<BR>You might want to shelter it from the rain, though.
+
+Automagy.research_name.THIRSTYTANK_GLYPH=Thirsty Glyphs
+Automagy.research_text.THIRSTYTANK_GLYPH=Watermarks
+Automagy.research_page.THIRSTYTANK_GLYPH.1=The thirsty tank could do so much more with liquid than gather and store a few buckets' worth. To unlock its potential, you have devised a system of glyphs and a special Aqua-imbued inky paste to go with it. When this "aqueous admixture" is formed into the right shape alongside objects with appropriate properties, it can be magically impressed upon a slate, becoming a portable glyph that can be applied to the side of a thirsty tank.<BR>A thirsty tank can have up to six glyphs, one on each of its sides. The side chosen is important in some cases since certain glyphs' effects are "aimed" in that direction.
+Automagy.research_page.THIRSTYTANK_GLYPH.2=To remove a glyph, simply right-click the side it was placed upon while sneaking with a wand.<BR>The glyphs you've designed so far and their effects are as follows:<BR>§lVoid:§r The tank will accept more liquid than it can hold. The excess is destroyed.<BR>§lConsumption:§r The tank will, over time, truly consume (destroy) any liquid it stores. Use additional glyphs for faster consumption.<BR>§lSiphoning:§r Liquid will be siphoned out of the tank into another container in the direction specified.<BR>§lEnvy:§r The tank will take liquid from the container in the direction
+Automagy.research_page.THIRSTYTANK_GLYPH.3=specified, up to a bucket's worth at a time.<BR>§lTemperance:§r The tank will not pull liquid into itself unless it is receiving a redstone signal.<BR>§lPreservation:§r The tank will prevent itself from being drained entirely. You could use this to ensure a tank will only ever contain a specific fluid.<BR>§lGuzzler:§r The tank draws liquid into itself faster. More glyphs improve its speed further.<BR>§lReservoir:§r The tank's capacity is increased by 32 buckets' worth for each of these glyphs.
+
+Automagy.research_name.THIRSTYTANK_GLYPH_BOVINE=Glyph of the Bovine
+Automagy.research_text.THIRSTYTANK_GLYPH_BOVINE=No Bull
+Automagy.research_page.THIRSTYTANK_GLYPH_BOVINE.1=Your advancements in the magic of detecting creatures have allowed the creation of an additional type of glyph: The glyph of the bovine. A thirsty tank with this glyph applied will no longer drink liquid flowing near it. Instead, it will look in the direction to which the glyph was applied for cows to milk.<BR>While the speed at which the tank searches for cows to be milked is increased by a §lglyph of the guzzler§r, the real limiting factor is that once a cow has been milked, thirsty tanks cannot milk it again for some time.
+# No, seriously. There are no bulls. What's up with that?
+
+# Chat messages
+Automagy.chat.newVersionAvailable=Automagy v%s is now available. (You are running v%s.)
+Automagy.chat.newVersionLink=["Click ",{"text":"[this link]","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to go to Automagy's webpage","color":"aqua"}},"clickEvent":{"action":"open_url","value":"http://everburningtorch.com/minecraft/automagy/"}}," for more info and downloads."]
+Automagy.chat.hourglass.setTimer=Hourglass timer set to %s seconds.
+Automagy.chat.remoteComparator.itemUnlinked=You must link that item to a location before placing it here.
+
+# Tooltips
+Automagy.tip.crystalEye.link=Watching %s,%s,%s in %s
+Automagy.tip.crystalEye.linkDistance=(%s from you)
+Automagy.tip.foodstuff.0=This doesn't seem wise.
+Automagy.tip.redcrystalMerc.link=Linked to %s,%s,%s in %s
+Automagy.tip.recipe.product=Creates %s %s
+Automagy.tip.recipe.using=Using:
+Automagy.tip.recipe.incomplete=This recipe appears to be incomplete.
+Automagy.tip.tankFluidData=%s / %s mB of %s
+
+# GUI
+Automagy.gui.hourglassMagic.repeat=Repeat/Loop?
+Automagy.gui.hourglassMagic.signal.name=Signal Sent:
+Automagy.gui.hourglassMagic.signal.0=Disabled
+Automagy.gui.hourglassMagic.signal.1=Pulse
+Automagy.gui.hourglassMagic.signal.2=Alternating
+Automagy.gui.hourglassMagic.signal.3=Constant
+Automagy.gui.hourglassMagic.signal.4=Negative Pulse
+Automagy.gui.hourglassMagic.sandFlip.name=On Reactivation:
+Automagy.gui.hourglassMagic.sandFlip.0=Standard
+Automagy.gui.hourglassMagic.sandFlip.1=Move Sand to Top
+Automagy.gui.hourglassMagic.sandFlip.2=Move Sand to Bottom
+Automagy.gui.hourglassMagic.timer.name=Timer:
+Automagy.gui.hourglassMagic.timer.secondsOne=1 second
+Automagy.gui.hourglassMagic.timer.seconds=%s seconds
+Automagy.gui.hourglassMagic.timer.minutes=%s min
+Automagy.gui.hourglassMagic.timer.minutesAndSeconds=%s min %s sec
+Automagy.gui.hourglassMagic.timer.sec=seconds
+Automagy.gui.hourglassMagic.timer.min=minutes
+Automagy.gui.hourglassMagic.timer.tooltip=Left-click to increase.\nRight-click to decrease.\nHold Shift to adjust by 10.
+Automagy.gui.hourglassMagic.signalReact.name=Signal Received:
+Automagy.gui.hourglassMagic.signalReact.0=Ignore
+Automagy.gui.hourglassMagic.signalReact.1=Flip Hourglass
+Automagy.gui.hourglassMagic.signalReact.2=Prevent Timer
+Automagy.gui.hourglassMagic.signalReact.3=Required for Timer
+
+Automagy.golem.saveShears=Preserve damaged shears
+Automagy.golem.shearCreature=Shear creatures
+Automagy.golem.shearBlock=Shear blocks
+Automagy.golem.craftSupply=Provision ingredients via Supply Seal
+# Automagy.golem.leaveOne=Don't consume last of an item
+
+Automagy.gui.filter.ignoreQuantity=Ignore quantity
+Automagy.gui.filter.ignoreMetadata=Ignore metadata
+Automagy.gui.filter.ignoreNBT=Ignore NBT
+Automagy.gui.filter.byName=By Name:
+Automagy.gui.filter.textFilterTooltip=In addition to filtering by the items placed at\nthe left, you can filter by item name. Use an\nasterisk (*) to allow other characters at the\ngiven position. (Be sure to use a * as the first\nand last characters unless you want to match\nonly names that start or end with this text.)
+
+Automagy.gui.tallyBox.allowPartialMatch=Partial matching
+Automagy.gui.tallyBox.desc.white=Emit a redstone signal if target
+Automagy.gui.tallyBox.desc.black=Emit a redstone signal unless target
+Automagy.gui.tallyBox.desc.all=contains all specified items.
+Automagy.gui.tallyBox.desc.any=contains any specified items.
+Automagy.gui.tallyBox.quantityResult.white=Item counts must match or exceed the specified quantity.
+Automagy.gui.tallyBox.quantityResult.black=Item counts below the specified quantity are allowed.
+
+Automagy.gui.maw.redstoneDisables=Redstone sensitive
+Automagy.gui.finicalMaw.quantityResult.limit=Specified quantities\nwill limit stock
+Automagy.gui.finicalMaw.quantityResult.leave=Specified quantities\nwill be left behind
+Automagy.gui.spittingMaw.quantityResult.limit=Specified quantities\nwill limit stock
+Automagy.gui.spittingMaw.quantityResult.leave=Specified quantities limit\nnumber removed at once per slot\n(All removed eventually)
+
+# Focus upgrades
+
+# Key bindings
+Automagy.key.focusCrafting=Wand Focus: Crafting
+
+# Miscellaneous
+itemGroup.Automagy=Automagy
+wailaTip.redcrystalPower=Power : %s
+wailaTip.redcrystalPowerWithAmp=Power : %s (+%s)
+wailaTip.redcrystalPowerWithCap=Power : %s/%s
+wailaTip.redcrystalPowerMin=[min %s]
+wailaTip.hourglassTimerSec=Timer : %s seconds
+wailaTip.hourglassTimerSecOne=Timer : 1 second
+wailaTip.hourglassTimerMinSec=Timer : %s min %s sec
+wailaTip.hourglassTimerCountdown=         %s:%s remaining
+wailaTip.golemInhibitorMatchOmit=Mode : Omit Linked Golems
+wailaTip.golemInhibitorMatchExclusive=Mode : Linked Golems Only
+wailaTip.golem.linkedBlock=Linked to %s at %s
+wailaTip.golem.taskFetch=Fetching Requested Items
+# wailaTip.golem.taskFetch.specific=Fetching %s %s
+wailaTip.tankFluidData=%s / %s mB of %s
+wailaTip.tankFluidDataEmpty=0 / %s mB
+wailaTip.xp=%s levels (%s xp)
